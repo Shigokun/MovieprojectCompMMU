@@ -14,4 +14,4 @@ This website explores how movies teach life lessons.
 Open `index.html` in a browser.
 
 ## Live Website
-https://your-link-here.com
+[https://your-link-here.com](https://shigokun.github.io/MovieprojectCompMMU/)
